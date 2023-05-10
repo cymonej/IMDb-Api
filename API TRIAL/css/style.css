@@ -1,0 +1,6 @@
+.movies li img {
+    width: 150px;
+    height: 225px;
+    object-fit: cover; /* to ensure the entire image is displayed within the fixed dimensions */
+    margin-right: 10px; /* add a bit of space between the image and the movie name */
+  }
